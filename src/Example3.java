@@ -16,7 +16,7 @@ public class Example3 {
         }
         //now part two
         for (String name: class_names){
-            System.out.println(name);
+            System.out.print(name);
         }
     }
 
